@@ -1,0 +1,7 @@
+,display_name,icon
+0,mining,Texture2D'/Game/Graphics/UI/Buttons/icon_mining.icon_mining'
+1,refining,Texture2D'/Game/Graphics/UI/Buttons/icon_refine.icon_refine'
+2,production,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_Manufacture.Bcon_Manufacture'
+3,science,Texture2D'/Game/Graphics/UI/Buttons/icon_research.icon_research'
+4,military,Texture2D'/Game/Graphics/UI/Buttons/icon_mission.icon_mission'
+5,passive,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/icon_upgrade.icon_upgrade'

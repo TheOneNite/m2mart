@@ -1,0 +1,14 @@
+,display_name,input_mats,mat_qtys,input_comps,comp_qtys,input_prods,prod_qtys,output_type,output_ids,output_qtys,time,teams,skill,repeats,icon
+1,Battery,"(1,2,7)","(200,200,200)",,,,,component,(14),(500),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Battery.Icon_Battery'
+2,Power Cable,(1),(1),(4),(1),,,component,(15),(265),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Conduit.Icon_Conduit'
+3,,,,,,,,,,,,,assembly,,
+4,Fertilizer,"(5,12)","(1000,1000)",,,,,material,(11),(500),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Fertilizer.Icon_Fertilizer'
+5,Rocket Fuel,"(7,14)","(1000,1000)",,,,,material,(15),(500),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_RocketFuel.Icon_RocketFuel'
+6,Solar Cell,"(3,1)","(10,1)",(2),(25),,,component,(13),(50),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_SolarCell.Icon_SolarCell'
+7,Front Loader,,,"(3,5,4,2,10)","(10,250,100,2,50)",,,product,(2),(1),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Buttons/icon_mining.icon_mining'
+8,Dump Truck,,,"(3,5,4,2,10)","(10,150,75,2,40)",,,product,(3),(1),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/dump_truck.dump_truck'
+9,Computing Terminal,,,"(7,2,4,5)","(100,25,400,100)",,,product,(4),(100),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/computing_terminal.computing_terminal'
+10,Delivery Truck,,,"(3,5,4,2,10)","(10,150,75,2,40)",,,product,(0),(1),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Buttons/icon_truck.icon_truck'
+11,Survey Rover,,,"(3,5,4,2,10)","(10,150,75,2,40)",,,product,(0),(1),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/icon_survey_rover.icon_survey_rover'
+12,Server Blade,,,"(7,4,5)","(1000,200,200)",,,product,(5),(100),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/server_blade.server_blade'
+13,Server Rack,,,"(1,4,14,15)","(30,300,10,10)",(5),(100),product,(6),(10),7,6,assembly,0,Texture2D'/Game/Graphics/UI/Stockpile_Icons/server_rack.server_rack'

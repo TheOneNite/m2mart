@@ -1,0 +1,29 @@
+,display_name,building_types,techs_req,mats_req,mats_qty,comps_req,comps_qty,prods_req,prods_qty,build_time,upgrade_type,unlocked_types,unlocked_schemas,power_delta,icon
+1,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,
+4,Solar Roof,"(residential,science,industrial,grow,logistics)",,,,"(13,10)","(10,10)",,,10,0,,,10,
+5,Data Collection Unit,"(residential,science,industrial,grow,logistics)",,,,(7),(1),,,5,0,5,(5),-2,
+6,Task AI Controller,"(residential,science,industrial,grow,logistics)",(13),,,(7),(5),,,30,0,,,-10,
+7,Compressor,(industrial),,,,"(4,5,3)","(10,10,10)",,,30,0,0,(2),-10,
+8,,,,,,,,,,,,,,,
+9,Smelter,(industrial),(3),,,"(3,10,15)","(15,10,10)",,,30,0,1,(2),-50,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_AluminiumRefining.Bcon_AluminiumRefining'
+10,Electrolytic Cell,(industrial),,,,"(1,9,15)","(10,10,10)",,,30,0,1,(4),-100,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_Electrolysis.Bcon_Electrolysis'
+11,Chem Plant,(industrial),,,,"(3,10)","(10,10)",,,30,0,1,(3),-20,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_Chemical.Bcon_Chemical'
+12,Food Processing,(industrial),,,,"(1,9)","(10,10)",,,30,0,1,(5),-10,
+13,Cement Plant,(industrial),(1),,,"(3,10)","(10,10)",,,30,0,1,(7),-10,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/bcon_cement_plant.bcon_cement_plant'
+14,Gas Condenser,(industrial),,,,"(3,5,10,15)","(10,10,10)",,,30,0,1,(6),-25,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/bcon_gas_refine.bcon_gas_refine'
+15,Drill Derrick,(industrial),(8),,,"(5,10)","(10,1000)",,,15,0,0,(1),-10,
+16,Solar Array,(industrial),,,,"(13,14,15)","(50,10,5)",,,15,2,,,100,Texture2D'/Game/Graphics/UI/Buttons/Buildings/Bcon_SolarPlant.Bcon_SolarPlant'
+17,Network Connection,(residential),(7),,,"(4,15)","(10,50)",(4),(4),10,0,5,(4),-2,
+18,Network Connection,"(science,industrial,grow,logistics)",(7),,,"(4,15)","(10,150)","(4,5)","(2,5)",20,0,5,(6),-10,
+19,Logistics Links,(logistics),,,,,,(0),(1),10,1,,,,
+20,Logistics Links,(logistics),,,,,,(0),(2),10,1,,,,
+21,Logistics Links,(logistics),,,,,,(0),(10),10,1,,,,
+22,Network Connection,(residential),(7),,,"(4,15)","(10,50)",(4),(2),5,0,5,(14),-1,
+23,Network Connection,(residential),(7),,,"(4,15)","(10,50)",(4),(32),15,0,5,(15),-16,
+24,Network Connection,(residential),(7),,,"(4,15)","(10,50)",(4),(128),25,0,5,(16),-35,
+25,Automate Farming,(grow),(12),,,"(5,9,14,15)","(1500,1000,100,50)","(4,6)","(2,1)",60,3,,(farm),-20,
+26,AI Lab,(science),,,,,,"(4,6)","(6,10)",,0,3,(1),-20,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_QuantumProcessor.Icon_QuantumProcessor'
+27,Robotics Lab,(science),,,,(5),(500),"(4,6)","(8,2)",,0,3,(2),-15,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Processor.Icon_Processor'
+28,Bio Lab,(science),,,,(6),(500),(4),(5),,0,3,(3),-5,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Biomass.Icon_Biomass'

@@ -1,0 +1,12 @@
+,display_name,input_mat,input_qty,time,teams,output_comp,output_qty
+1,Panel (plastic)x5000,(6),500,20,6,1,5000
+2,Panel (glass)x500,(3),50,2,6,2,500
+3,Panel (metal)x500,"(0,1)",50,2,6,3,500
+4,Plastic Partsx2500,(6),100,7,6,4,2500
+5,Metal Partsx2500,"(0,1)",100,7,6,5,2500
+6,Glass Partsx2500,(3),100,7,6,6,2500
+7,Standardx1000,"(2,3)",10,7,6,7,1000
+8,Quantumx100,"(2,3)",10,7,6,8,100
+9,Structural Plasticx5000,(6),1000,7,6,9,5000
+10,Structural Metalx5000,"(0,1)",1000,7,6,10,5000
+11,Structural Glassx5000,(3),1000,7,6,11,5000

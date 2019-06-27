@@ -1,0 +1,10 @@
+,display_name,input_mats,mat_qtys,input_comps,comp_qtys,input_prods,prod_qtys,output_type,output_ids,output_qtys,time,teams,skill,repeats,icon
+1,Grow Biomass,"(10,14)","(300,300)",,,,,material,"(17,12)","(6000,12000)",30,3,farming,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Biomass.Icon_Biomass'
+2,Grow Food (fertilized),"(10,14, 11)","(1000,1000, 250)",,,,,material,"(14,12)","(15000,45000)",90,3,farming,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Fertilizer.Icon_Fertilizer'
+3,Grow Food,"(10,14)","(1000,1000)",,,,,material,"(14,12)","(10000,30000)",90,3,farming,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Food.Icon_Food'
+4,Bacterical Amplification,"(17,10,14)","(100,1000,100)",,,,,material,"(17,10)","(1000000, 900)",5,9,farming,1,
+5,Oxygenation,"(10,17)","(1000, 1000000)",,,,,material,"(10, 12)","(500, 100000)",3,3,farming,1,
+6,Atmospheric Oxygenation,(12),(500000),,,,,material,(18),(0.01),3,6,farming,1,
+7,Grow Biomass,"(10,14)","(1500,1500)",,,,,material,"(17,12)","(30000,60000)",30,6,farming,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Biomass.Icon_Biomass'
+8,Grow Food (fertilized),"(10,14, 11)","(5000,5000, 1250)",,,,,material,"(14,12)","(75000,225000)",90,6,farming,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Fertilizer.Icon_Fertilizer'
+9,Grow Food,"(10,14)","(5000,5000)",,,,,material,"(14,12)","(50000,150000)",90,6,farming,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Food.Icon_Food'

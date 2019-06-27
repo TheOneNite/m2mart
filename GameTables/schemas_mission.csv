@@ -1,0 +1,4 @@
+,display_name,type,range,speed,skill,statA,statB,icon
+0,Haul,0,2000,250,drive,50,,Texture2D'/Game/Graphics/UI/Buttons/icon_truck.icon_truck'
+1,Survey Tile,2,10000,250,drive,4,,Texture2D'/Game/Graphics/UI/Buttons/Missions/survey_tile.survey_tile'
+2,Rebase,3,100000,250,drive,,,

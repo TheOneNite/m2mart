@@ -1,0 +1,35 @@
+,anchor_element,spawn_x,spawn_y,text
+0,0,0,0,The first thing you must do is select the colonists and resources you wish to take in the first colony ship to set up your base on mars
+1,0,0,0,"In order to add a colonist to the rocket you must first add accomidations for them.  Press the cabin button to add a colonist cabin to the rocket, each cabin can carry two colonists"
+2,0,0,0,You can then add colonists.  The buttons next to the colonist list filter the avaliable colonists by their skills
+3,0,0,0,"Ensure you have a healthy mix of skills for your inital colonists.  Your inital priorites will be distributing resources, building shelters, growing food, and doing scientific research to adapt to the Martian environment, so make your choices with that in mind"
+4,0,0,0,"Once you have selected your colonists, make sure to provide them with the resources they will need on mars.  Each colonists consumes 1 food and 3 water per day"
+5,0,0,0,Finally add the resources and components that will serve as the building blocks of your colony
+6,0,0,0,"If you want to try the game without getting into the gritty details of your loadout you can select the ""Default"" button to load a pre-set inventory that gives all the basics required to get your colony up and running"
+7,0,0,0,Resources are broken down into three broad categories:
+8,0,0,0,"The first is resources, which are raw, unrefined materials that are generally produced by mining operations"
+9,0,0,0,"Next are materials, which are more refined materials that are ready to be transformed into useful products"
+10,0,0,0,"Then come components.  These generally serve as the bulk of the construction materials, and are also used to create consumer and industrial goods"
+11,0,0,0,"Finally are products, which are the various machines, creature comforts, and other things  your colony needs to run smoothly"
+12,,,,"Plastic serves as a strong, lightweight, building material that will be used for most of the basic construction on mars.  You'll want to bring lots of structural plastic and plastic panels"
+13,,,,"For some applications, plastic just won't cut it.  You'll need a few of the metal versions of the basic components for industrial applications"
+14,,,,"Finally some applications require glass components for various reasons, from solar panels to fiberglass used to provide tensile strength to concrete structures"
+15,,,,"Once you've selected your loadout, press the ""launch"" button"
+16,,,,"This screen currently does nothing other than look pretty and provide a placeholder for eventual map selection.  Click anywhere and press land, which may take a while to load"
+17,,,,You've arrived!! Your first priority will be setting up a sustainable life support system for your colonists
+18,,,,"To start, you'll want to build greenhouses to grow food for your colonists.  Click the ""grow"" button, then choose the greenhouse, and click where you want to place it"
+19,,,,"This creates a construction site, seperated from the harsh martian atmosphere by a tough polymer dome.  In order to begin construction you'll have to provide the required building materials"
+20,,,,"To move building materials you can either click on a building that contains the materials and a hauling truck, click on the hauling truck, select the ""haul"" mission and then choose the material you want to move"
+21,,,,"Use the slider or the text box to enter the quantity you want to move, then click the checkbox and then the destination building"
+22,,,,"Alternatively you can click on the construction site, which will have a list of everything required to build the building"
+23,,,,"clicking each resource button brings up the slider prefilled with the required quantity, click the check and the building that contains the materials and a transport truck to import the required resources"
+24,,,,Do this now to move the resources and start construction of your greenhouse
+25,,,,Once you've provided all the required resources construction of your building will begin automatically
+26,,,,In order to keep the lights on you'll need to provide power to your colony.  The easiest source of this to start will be solar power
+27,,,,"Go ahead and build a solar plant, which can be found under the industrial category, place it, and provide the required build materials to get construction started"
+28,,,,"While your solar plant builds, lets set up some shelters.  There are various kinds that can be built, with the most basic being a 4-room HAB and the 8-room dormitory."
+29,,,,"Since we're trying to get our people out of the rocket and into larger rooms quickly, lets build dormitories"
+30,,,,"Select the dormoritory under the ""Residential"" building category and place enough that each of your colonists will have a room.  You can hold shift while clicking to place multiple buildings at once"
+31,,,,Provide the required resources for the buildings to get their construction started
+32,,,,"At this point all that's missing is a source of water.  Water is actually somewhat plentiful on mars, however purifying it to the point it's usable will require research.  Build a labratory "
+33,,,,Good Luck!!

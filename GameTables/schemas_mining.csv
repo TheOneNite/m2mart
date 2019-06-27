@@ -1,0 +1,6 @@
+,display_name,mode,range,rate,teams,valid_types,icon
+0,Sand Mining,0,1000,800,3,sand,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_SandMining.Bcon_SandMining'
+1,Rock Mining,0,1000,500,3,rock,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_Rockminging.Bcon_Rockminging'
+2,Ice Mining,0,1000,800,3,ice,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_IceMining.Bcon_IceMining'
+3,Water Drilling,1,200,1000,6,sand,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/Bcon_WaterDrilling.Bcon_WaterDrilling'
+4,Condense ATM Gas,2,200,1000,6,,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_ATMGas.Icon_ATMGas'

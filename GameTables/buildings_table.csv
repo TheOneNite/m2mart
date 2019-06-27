@@ -1,0 +1,7 @@
+,display_name,schema_types,mining_schemas,refining_schemas,production_schemas,science_schemas,military_schemas,passive_schemas,model,texture
+mine,mine,"(0,5)","(0,1)",,,,,"(1,2,3)",StaticMesh'/Game/Graphics/tileactor.tileactor',Material'/Game/Graphics/Materials/Mat_WhitePoly.Mat_WhitePoly'
+refinery,Refinery,"(1,5)",,"(heat, smelt)",,,,"(1,2,3)",,
+shop,Shop,"(2,5)",,,"(0,1)",,,"(1,2,3)",,
+lab,Lab,"(3,5)",,,,,,"(1,2,3)",,
+barracks,Barracks,"(4,5)",,,,,,"(1,2,3)",,
+plant_solar,Solar Plant,(5),,,,,,"(1,2,3)",,

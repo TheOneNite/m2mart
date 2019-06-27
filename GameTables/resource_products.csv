@@ -1,0 +1,8 @@
+,display_name,missions,weight,volume,value,icon
+0,Delivery Truck,"(0,2)",1000,5,250000,Texture2D'/Game/Graphics/UI/Buttons/icon_truck.icon_truck'
+1,Survey Rover,"(1,2)",500,2,500000,Texture2D'/Game/Graphics/UI/Buttons/ButtonImages/icon_survey_rover.icon_survey_rover'
+2,Front Loader,(2),1500,5,250000,Texture2D'/Game/Graphics/UI/Buttons/icon_mining.icon_mining'
+3,Dump Truck,(2),1000,5,250000,Texture2D'/Game/Graphics/UI/Stockpile_Icons/dump_truck.dump_truck'
+4,Computing Terminal,,2,0.1,500,Texture2D'/Game/Graphics/UI/Stockpile_Icons/computing_terminal.computing_terminal'
+5,Server Blade,,1,0.05,1000,Texture2D'/Game/Graphics/UI/Stockpile_Icons/server_blade.server_blade'
+6,Server Rack,,50,2,10000,Texture2D'/Game/Graphics/UI/Stockpile_Icons/server_rack.server_rack'

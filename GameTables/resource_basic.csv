@@ -1,0 +1,5 @@
+,display_name,weight,volume,value,icon
+0,Sand,2000,1,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Sand.Icon_Sand'
+1,Rock,2500,1,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Rocks2.Icon_Rocks2'
+2,Ice,1000,1,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Ice.Icon_Ice'
+3,Atmospheric Gas,1500,1,1,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_ATMGas.Icon_ATMGas'

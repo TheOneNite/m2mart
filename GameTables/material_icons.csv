@@ -1,0 +1,22 @@
+,display_name,weight,volume,value,tip_txt,icon
+0,Iron,2900,1,5,Raw metal which can be machined into metal components,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Iron.Icon_Iron'
+1,Aluminium,2400,1,5,"Raw metal which can be machined into metal components, but lighter than iron for interplanetary transport",Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Aluminium4.Icon_Aluminium4'
+2,Rare Earth Metal,1300,1,5,Important component of batteries and computers,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_RareMetal.Icon_RareMetal'
+3,Silica,1300,1,5,Base material for the production of glass,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Silica.Icon_Silica'
+4,Sulphur,750,1,5,Base material used with sand to produce Martian cement,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Sulphur.Icon_Sulphur'
+5,Nitrogen,750,1,5,"Key fertilizer component for plant growth and an important part of the atmospheric gas blend.  Difficult to source on Mars, but plentiful on Earth",Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Nitrogen.Icon_Nitrogen'
+6,CHx,450,1,5,Hydrocarbon molecules which can be burned to produce energy or as the building blocks of plastic components,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_CHx.Icon_CHx'
+7,Halogens,2700,1,5,Acidic components found in martian soil with some industrial applications,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Halogens.Icon_Halogens'
+8,Rocks,1500,1,5,Larger-sized loose material that doesn't contain significant quantites of useful materials,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Rocks2.Icon_Rocks2'
+9,Sand,2000,1,5,Larger-sized loose material that doesn't contain significant quantites of useful materials.  Mixed with sulphur to produce martian cement,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Sand.Icon_Sand'
+10,Water,1,0.001,5,Required for colonist survival as well as many industrial applications,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Water.Icon_Water'
+11,Fertilizer,900,1,5,"Enhances plant growth, leading to higher yields",Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Fertilizer.Icon_Fertilizer'
+12,Oxygen,1140,1,5,Produced by electrolysis of water and plant growth.  Required to oxygenate the atmosphere and win a terraforming victory,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Oxygen.Icon_Oxygen'
+13,Hydrogen,70,1,5,One of the two materials required to manufacture CHx on Mars,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Hydrogen.Icon_Hydrogen'
+14,Food,0.5,0.01,10,Eaten by colonists.  Also represents the seed required to grow a new crop ,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Food.Icon_Food'
+15,Rocket Fuel,450,1,25,High density energy source for launching rockets,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_RocketFuel.Icon_RocketFuel'
+16,Concrete,2400,1,10,Basic building material for large projects,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Concrete.Icon_Concrete'
+17,Biomass,500,1,10,Low-grade microorganism-based biomass that can be converted to food or used in industrial biological processes,Texture2D'/Game/Graphics/UI/Stockpile_Icons/Icon_Biomass.Icon_Biomass'
+18,Atm O2,,,,,
+19,Senescence,,,,,
+20,GDP,,,,,

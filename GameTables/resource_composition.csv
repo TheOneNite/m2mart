@@ -1,0 +1,5 @@
+,iron_low,iron_high,al_low,al_high,RE_low,RE_high,sulpher_low,sulpher_high,nitrogen_low,nitrogen_high,silica_low,silica_high,water_low,water_high,halogens_low,halogens_high,rock_low,rock_high
+base_dust,0.010,0.020,0.030,0.060,0.0,0.005,0.030,0.060,0.001,0.005,0.020,0.040,0.000,0.400,0.005,0.015,0.050,0.600
+base_rock,0.020,0.040,0.030,0.060,0.0,0.010,0.030,0.060,0.001,0.005,0.020,0.040,0.000,0.050,0.005,0.015,0.950,1.000
+dust_lode_mods,3,5,2.000,6.000,2,4,,,,,,,5,8,,,,
+rock_lode_mods,4,7,4.000,12.000,3,6,,,,,,,,,,,,

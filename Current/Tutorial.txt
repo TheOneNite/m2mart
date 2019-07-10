@@ -1,0 +1,64 @@
+Loading the rocket:
+
+To the left are possible crew members you can add to your colony. In order to add crew to your ship you first have to add a cabin, 
+which can be done by pressing the large button at the top of the crew box. Hover over crew members to see their information (currently just
+their skills)
+
+To the right are all possible resources. Adding food, water,and oxygen is obviously mandatory.
+The following is a list of construction requirements for basic buildings that you likely will want to build early in your colony’s life:
+
+Greenhouse: 300 plastic panels, 3000 struct. plastic, 1000 plastic parts
+Laboratory: 300 plastic panels, 3000 struct. plastic
+Basic Hab: 200 plastic panels 2000 structural plastic
+Mine: 200 plastic panels, 2000 struct. plastic, 100 metal panels, 250 metal parts
+Drill Derrick (to drill for water): 10 metal parts, 1000 structural metal
+Solar Plant: 1000 solar panels, 500 wire, 5000 structural
+metal, 500 metal parts
+
+A suggested starting loadout: 
+100k Food
+250k Water
+500 Oxygen
+1500 Metal Parts
+500 Metal Panels
+11k Structural Metal
+2000 Solar Cells
+500 Power Cable
+2500 Plastic Parts
+6 Delivery Trucks
+1 Rover
+60 Colonists
+Fill with Plastic Panels and Structural Plastic at a 1:10 ratio (10 structural plastic per 1 plastic panel).
+
+Trucks are required for moving resources between buildings and your colony will fail without a few (5-6 recommended). 
+Survey rovers are required in order to tell what the ground in a given location contains and will increase the efficiency of your mining operations.
+
+Gameplay:
+
+Choosing buildings is done through the bottom menu. After choosing what building to build and placing 
+it on the map you must supply the construction site with the required materials. This can be done by sending 
+the materials from a building that has the requirements, or by clicking the resource button on the under-construction 
+building, setting the quantity, and selecting the building to take the resources from.  Buildings can be upgraded (house with green plus icon)
+to add additional functionality.  Currently all avaliable upgrades are of the "type" category.
+
+In order to survive the two biggest priorities are securing your food and water supplies. 
+Food must be grown in greenhouses, takes an initial investment of food+water, and requires a significant 
+growing time, so planning ahead for your food supply is critical. Water can be obtained one of two ways: 
+by drilling for and extracting water from micro-ice in the martian soil, or by mining surface ice and melting it into water. 
+Either way will require you to research the Martian water purification tech to make the water usable by your citizens. 
+
+Technologies can be researched from the laboratory building. Choose an empty slot in a laboratory 
+to add a research team that can then be assigned to research any available technology.
+
+Buildings also require power in order to carry out many of their functions. Solar power 
+is the easiest and most accessible early in the game and getting a solar plant built should be an early priority.
+Later (research Martian Uranium Enrichment) you will gain access to nuclear power that provides greater output with a higher upfront cost.
+
+Additional resources, products, and materials can also be sent in from Earth in limited launch windows. 
+This is also the only way to add additional colonists to your colony. Press the launch button to access the loading 
+interface and choose the contents of your next rocket. There is a counter in the bottom right showing the 
+years, months, and days until the next launch, or, if there has recently been a launch, the time until the next wave of rockets from earth arrive.
+The number of new colonists avaliable to you is based on unoccupied housing units in your colony, build excess housing to attract more potential colonists.
+
+Goals: Currently you can win the game by raising the atmospheric oxygen level of Mars to something more earth-like.  This can be done using a Terraplant (research Terraform Theory)
+and consumes huge amounts of oxygen.  Oxygen can be generated at the volumes required using biofactories (research Bioindustry).  More victory conditions coming soon!
